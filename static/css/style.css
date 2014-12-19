@@ -1,0 +1,95 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+}
+
+a[class*="entypo-"]:before {
+    font-family: 'entypo', sans-serif;
+}
+
+.container {
+    margin: 0 auto 35px;
+    display: block;
+    width: 500px;
+}
+
+a{
+    color:#90ce3c;
+    font-weight:400;
+}
+
+h1 {
+    color:#1e3b2e;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.social {
+    position: relative;
+    height: 150px;
+    padding: 0;
+    width: 300px;
+    margin: 25px auto;
+}
+
+.social li {
+    display: block;
+    height: 4em;
+    line-height: 4em;
+    position: absolute;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    text-align: center;
+    width: 4em;
+}
+
+.social a {
+    color: #fffdf0;
+    display: block;
+    height: 4em;
+    line-height: 4em;
+    text-align: center;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    width: 4em;
+    text-decoration: none; 
+}
+
+
+.facebook {
+    background: #155b9d;
+    top: 25px;
+    left: 15px;
+}
+
+.twitter {
+    background: #1a9ec4;
+    top: 25px;
+    left: 115px;
+}
+
+.github {
+    background: #000;
+    top: 25px;
+    left: 215px;
+}
+
+@media (max-width: 550px) {
+.container{width:90%;padding:20px;}
+.logo{width:100%;}
+
+}
+
