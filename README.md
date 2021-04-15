@@ -11,8 +11,8 @@ We can use django too but it gives 404 to be honest.
 # Deductive reasoning
 
  - https://djangoproject.com/404/ (Gives 404, Not found)
- - https://djangoproject.com/402/ (Gives 404)
- - https://djangoproject.com/500/ (Internal server error)
+ - https://djangoproject.com/402/ (Gives 404, Not found)
+ - https://djangoproject.com/500/ (Internal Server Error, so let it play "Gözlerimin içinde")
 
 Also
  - https://djangoproject.com/istanbul/ (Gives 404)
