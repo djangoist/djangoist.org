@@ -29,3 +29,5 @@ Also, https://djangoproject.com/LETSREMOVEIT.txt, gives 200 with the following c
     
 Do we really need to tell them that we have an admin panel exactly at that URL?
 This is 2021, you can't disallow anybody by just telling "disallow".
+
+If so, I can disallow you too. 🐠
