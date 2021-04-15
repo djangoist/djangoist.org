@@ -9,3 +9,5 @@ So we use tornado
 Yaz oraya bi sikinti varsa
 
 In case of any problem djangoboys.org 8.99 silbers in name.com
+
+[burningalot](https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg)
