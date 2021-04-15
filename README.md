@@ -1,8 +1,4 @@
-Django Istanbul Web site
-
-<https://djangoproject.com/istanbul> (Gives 404 we are very mad)
-
-So we use tornado
+We use tornado
 
 <https://an-experiment.com/>
 
