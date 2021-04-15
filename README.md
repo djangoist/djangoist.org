@@ -1,4 +1,4 @@
-We use tornado
+We use tornado.
 
 <https://an-experiment.com/>
 
@@ -8,3 +8,4 @@ Djangoboys.org 8.99 silbers in name.com
 - [pillisi, cerceveli](https://github.com/djangoist/djangoist.org/blob/master/burning.svg)
 - [cercevesiz](https://raw.githubusercontent.com/djangoist/djangoist.org/master/burning.svg)
 
+We can use django too but it gives 404 to be honest.
