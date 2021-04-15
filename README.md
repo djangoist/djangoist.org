@@ -22,10 +22,10 @@ Therefore
 
 We're making a GET request. So, a 500 error for such an error is a little bit brutal.
 
-Also, https://djangoproject.com/robots.txt, gives 200 with the following content.
+Also, https://djangoproject.com/LETSREMOVEIT.txt, gives 200 with the following content.
 
     User-agent: *
-    Disallow: /admin
+    Disallow: /someurl
     
-Do you really need to tell them that you have an admin panel exactly at that URL?
+Do we really need to tell them that we have an admin panel exactly at that URL?
 This is 2021, you can't disallow anybody by just telling "disallow".
