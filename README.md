@@ -8,4 +8,4 @@ So we use tornado
 
 Yaz oraya bi sikinti varsa
 
-In case of any problem djangoboys.org $8.99 in name.com
+In case of any problem djangoboys.org 8.99 silbers in name.com
