@@ -6,6 +6,6 @@ We use tornado.
 - [pillisi, cerceveli](https://github.com/djangoist/djangoist.org/blob/master/burning.svg)
 - [cercevesiz](https://raw.githubusercontent.com/djangoist/djangoist.org/master/burning.svg)
 
-We love django.
-
 ![https://raw.githubusercontent.com/djangoist/djangoist.org/master/burning.svg](https://raw.githubusercontent.com/djangoist/djangoist.org/master/burning.svg)
+
+We love django.
