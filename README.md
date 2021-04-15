@@ -7,3 +7,5 @@ So we use tornado
 <https://an-experiment.com/>
 
 Yaz oraya bi sikinti varsa
+
+In case of anyproblem djangoboys.org $8.99 in name.com
